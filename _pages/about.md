@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: left
-  image: joon_profile_pic.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>222 Rice Hall</p>
