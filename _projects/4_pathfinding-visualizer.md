@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: Pathfinding Algorithm Visualizer
+description: # Welcome to my pathfinding algorithm visualizer.
+img: assets/img/pathfinding-visualizer.gif
+redirect: https://joon0516.github.io/Pathfinding-Algorithm-Visualizer/
 importance: 3
 category: fun
 ---

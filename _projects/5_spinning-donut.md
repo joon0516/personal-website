@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
+title: Spinning Donut
+description: Have a nice donut!
+img: assets/img/spinningdonut.gif
+redirect: https://joon0516.github.io/Spinning-Donut/
 importance: 3
 category: fun
 ---
