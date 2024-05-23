@@ -5,7 +5,7 @@ nav: true
 nav_order: 5
 ---
 
-<meta http-equiv="refresh" content="0; url=/assets/pdf/example_pdf.pdf">
+<meta http-equiv="refresh" content="0; url=/assets/pdf/Joonhyuk_Ko_CV.pdf">
 
 <!-- ---
 layout: cv
