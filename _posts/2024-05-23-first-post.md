@@ -2,7 +2,7 @@
 layout: distill
 title: My first post
 description: an example of a distill-style blog post and main elements
-tags: distill formatting
+tags: math uva
 # giscus_comments: true
 date: 2024-05-23
 featured: true
