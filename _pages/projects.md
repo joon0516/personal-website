@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: # A growing collection of your cool projects.
+description: Some cool visual projects that are not related to my research...
 nav: true
 nav_order: 3
 display_categories: [fun] #[work, fun]
