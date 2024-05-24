@@ -51,7 +51,7 @@ _styles: >
 
 ## Differentiability
 
-In a standard calculus course, we often learn functions that are differentiable, namely functions that are continuous, have no "sharp turns", and have no vertical tanglent line. So, a function like $$ f(x) = x $$ is differentiable but $$ g(x) = \vert x \vert $$ and $$ h(x) = \sqrt[3]{x} $$ are not since $$ g $$ has a "sharp turn" at 0 and $$ h $$ has a vertical tangent line at 0.
+In a standard calculus course, we often learn functions that are differentiable, namely functions that are continuous, have no "sharp turns", and have no vertical tangent line. So, a function like $$ f(x) = x $$ is differentiable but $$ g(x) = \vert x \vert $$ and $$ h(x) = \sqrt[3]{x} $$ are not since $$ g $$ has a "sharp turn" at 0 and $$ h $$ has a vertical tangent line at 0.
 
 To be more precise, a function $$ f \colon A \to \mathbb{R} $$ is said to be differentiable at $$ c \in A$$ if $$ f'(x) = \lim_{x \to c} \frac{f(x)-f(c)}{x-c} $$ exists. One beautiful result of this definition is that differentiability implies continuity.
 
@@ -79,8 +79,15 @@ We need to know for sure that $$ f $$ is integrable before we can compute $$ \in
 
 Finally, let us define what it means for a function to be integrable (more specifically, Riemann-integrable). \\
 <b>Definition 1.1.2.</b> <i>A bounded function $$f$$ defined on $$[a,b]$$ is Riemann-integrable if $$U(f) = L(f)$$.</i> <d-cite key="abbott2015understanding"></d-cite> \\
-If $$f$$ is Riemann-integrable, then $$\int_a^b f(x) dx = U(f) = L(f)$$.
+If $$f$$ is Riemann-integrable, then $$\int_a^b f(x) dx = U(f) = L(f)$$. One nice aspect of this definition is that continuity implies integrability.
 
+Now using the Definition 1.1.2, let's show that the Dirichlet function $$f$$ is not Riemann-integrable on $$[0,1]$$. <d-cite key="axler2019measure"></d-cite>  \\
+<i>Proof. </i>
+Let $$P$$ be a partition of $$[0,1]$$. If $$[a,b] \subseteq [0,1]$$ with $$a < b$$, then $$ \sup\{f(x) \vert x \in [a, b] \} = 1 $$ becasue $$ \mathbb{Q} $$ is dense in $$ \mathbb{R} $$ and $$ \inf\{f(x) \vert x \in [a, b] \} = 0 $$ because $$ \mathbb{I} $$ is dense in $$ \mathbb{R} $$ as well. This implies that for every partition $$P$$, it follows that $$L(f, P) = 0$$ and $$U(f, P) = 1$$. Therefore, $$L(f) = 0$$ and $$U(f) = 1$$. Since $$L(f) \not = U(f)$$, then $$f$$ is not Riemann-integrable on $$[0,1]$$. ∎
 
+Indeed, you can extend this to show that the Dirichlet function is not Riemann-integrable on $$\mathbb{R}$$.
 
+You can now see that Riemann-integration is not perfect. In addition to poor handling of functions with many discontinuities, it also has a problem with unbounded functions, such as $$\int_{-1}^1 \frac{1}{x} dx$$. Now you are wondering, is there a solution to these problems? The answer is yes: [Lebesgue-integration](https://en.wikipedia.org/wiki/Lebesgue_integration). Lebesgue definition of integral uses horizontal slabs that are not necessarily rectangles unlike Riemann's, and it can compute intergrals for a much wider range of functions including the Dirichlet function. 
+
+Learning more about the Lebesgue-integration is left as an exercise to the reader.
 
