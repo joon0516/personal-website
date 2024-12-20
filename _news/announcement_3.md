@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My first paper is accepted at AAAI 2025!
+My first paper is accepted at **AAAI 2025**!
