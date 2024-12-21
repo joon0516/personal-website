@@ -15,7 +15,7 @@ profile:
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 Hi, I'm Joon. I'm a third year student at the [University of Virginia](https://www.virginia.edu), pursuing a double major in Computer Science and Mathematics. My main interests lie in the intersection of machine learning, optimization, fairness, and privacy.
