@@ -23,4 +23,4 @@ Hi, I'm Joon. I'm a third year student at the [University of Virginia](https://w
 I'm also a member of [RAISE group](https://nandofioretto.github.io/group/) at UVA led by [Prof. Ferdinando Fioretto](https://nandofioretto.github.io). I do research in algorithmic fairness and differential privacy, and I'm fortunate to have [Saswat Das](https://saswatdas.com/) as my mentor. 
 Lastly, I was selected as a Dean’s Undergraduate Engineering Research Fellow for summer 2024 and spent the summer in Charlottesville.
 
-<!-- **I plan to apply to Ph.D. programs in Computer Science and Operations Research in Fall 2025. Feel free to reach out to me!** -->
+<!-- **I'm applying to Ph.D. programs in Computer Science and Operations Research in the fall. Feel free to reach out to me!** -->
