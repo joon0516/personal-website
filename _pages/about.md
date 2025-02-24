@@ -18,9 +18,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Joon. I'm a third year student at the [University of Virginia](https://www.virginia.edu), pursuing a double major in Computer Science and Mathematics. My main interests lie in the intersection of machine learning, optimization, fairness, and privacy.
+Hi, I'm Joon. I'm a third year student at the [University of Virginia](https://www.virginia.edu), pursuing a double major in Computer Science and Mathematics. I'm a member of [RAISE group](https://nandofioretto.github.io/group/) at UVA, led by [Prof. Ferdinando Fioretto](https://nandofioretto.github.io).
 
-I'm also a member of [RAISE group](https://nandofioretto.github.io/group/) at UVA led by [Prof. Ferdinando Fioretto](https://nandofioretto.github.io). I do research in algorithmic fairness and differential privacy, and I'm fortunate to have [Saswat Das](https://saswatdas.com/) as my mentor. 
-Lastly, I was selected as a Dean’s Undergraduate Engineering Research Fellow for summer 2024 and spent the summer in Charlottesville.
+My research focuses on algorithmic fairness and differential privacy, particularly how privacy noise impacts decision-making tasks. I'm also interested in reconstruction attacks and their practical implications for data privacy.
 
-<!-- **I'm applying to Ph.D. programs in Computer Science and Operations Research in the fall. Feel free to reach out to me!** -->
+**I'm applying to Ph.D. programs in Computer Science and Operations Research in the next cycle. Feel free to reach out—I’d appreciate any connections!**
