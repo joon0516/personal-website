@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'm very excited to share that I'll be spending this summer at CMU with [Steven Wu](https://zstevenwu.com/)'s group!
+I'm very excited to share that I'll be spending this summer at CMU with [Prof. Steven Wu](https://zstevenwu.com/)'s group!
