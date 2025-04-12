@@ -22,4 +22,6 @@ Hi, I'm Joon. I'm a third year student at the [University of Virginia](https://w
 
 My research focuses on algorithmic fairness and differential privacy, particularly how privacy noise impacts decision-making tasks. I'm also interested in reconstruction attacks and their practical implications for data privacy.
 
-**I'm applying to Ph.D. programs in Computer Science and Operations Research in the next cycle. Feel free to reach out—I’d appreciate any connections!**
+Fun fact: my [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is 3.
+
+**I'm applying to Ph.D. programs in Computer Science and Operations Research in the next cycle.**
