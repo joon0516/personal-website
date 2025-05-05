@@ -20,8 +20,6 @@ social: true # includes social icons at the bottom of the page
 
 Hi, I'm Joon. I'm a third year student at the [University of Virginia](https://www.virginia.edu), pursuing a double major in Computer Science and Mathematics. I'm a member of [RAISE group](https://nandofioretto.github.io/group/) at UVA, led by [Prof. Ferdinando Fioretto](https://nandofioretto.github.io).
 
-My research focuses on algorithmic fairness and differential privacy, particularly how privacy noise impacts decision-making tasks. I'm also interested in reconstruction attacks and their practical implications for data privacy.
-
-Fun fact: my [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is 3.
+My research focuses on algorithmic fairness and differential privacy, particularly how privacy noise impacts decision-making tasks. I'm also interested in reconstruction attacks and their practical implications for data privacy. *Fun fact:* my [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is 3.
 
 **I'm applying to Ph.D. programs in Computer Science and Operations Research in the next cycle.**
