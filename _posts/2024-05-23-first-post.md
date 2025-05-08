@@ -87,7 +87,7 @@ Let $$P$$ be a partition of $$[0,1]$$. If $$[a,b] \subseteq [0,1]$$ with $$a < b
 
 Indeed, you can extend this to show that the Dirichlet function is not Riemann-integrable on $$\mathbb{R}$$.
 
-You can now see that Riemann-integration is not perfect. In addition to poor handling of functions with many discontinuities, it also has a problem with unbounded functions, such as $$\int_{-1}^1 \frac{1}{x} dx$$. Now you are wondering, is there a solution to these problems? The answer is yes: [Lebesgue-integration](https://en.wikipedia.org/wiki/Lebesgue_integration). Lebesgue definition of integral uses horizontal slabs that are not necessarily rectangles unlike Riemann's, and it can compute intergrals for a much wider range of functions including the Dirichlet function. 
+You can now see that Riemann-integration is not perfect. In addition to poor handling of functions with many discontinuities, it also has a problem with unbounded functions, such as $$\int_{-1}^1 \frac{1}{x} dx$$. Now you may be wondering, is there a solution to this problem? The answer is yes: [Lebesgue-integration](https://en.wikipedia.org/wiki/Lebesgue_integration). The Lebesgue definition of integral uses horizontal slabs that are not necessarily rectangles, unlike Riemann's, and it can compute intergrals for a much wider range of functions including the Dirichlet function. 
 
 Learning more about the Lebesgue-integration is left as an exercise to the reader.
 
