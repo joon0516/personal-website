@@ -7,3 +7,11 @@
 
 "Vision":
   color: "#009f36"
+
+"ArXiv":
+  url: https://www.joonhyukko.com/publications/
+  color: "#6b6459"
+
+"AAAI"  :
+  url: https://www.joonhyukko.com/publications/
+  color: "#003973"
