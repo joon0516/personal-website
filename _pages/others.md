@@ -15,7 +15,7 @@ horizontal: false
   <a id="books" href=".#books">
     <h2 class="category">Math Books & Stories</h2>
   </a>
-  <p>I like theory. I started collecting physical copies of math books in 2024 and have been self-studying many topics as a hobby, and sometimes for classes. (I’m planning to add a picture of my bookshelf here soon 📚)</p>
+  <p>I like theory. I have been collecting physical copies of math books since 2024 and have been self-studying many topics as a hobby, and sometimes for classes. (I’m planning to add a picture of my bookshelf here soon 📚)</p>
 
   
   <div class="row">
