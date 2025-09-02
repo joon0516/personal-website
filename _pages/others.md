@@ -27,6 +27,7 @@ horizontal: false
         <li><strong>Elementary Analysis: The Theory of Calculus</strong> by Kenneth A. Ross (1980)</li>
         <li><strong>Measure, Integration & Real Analysis</strong> by Sheldon Axler (2020)</li>
         <li><strong>Measure and Integral</strong> by John L. Kelley and T.P. Srinivasan (1988)</li>
+        <li><strong>Probability</strong> by A. N. Shiryaev (1996)</li>
         <li><strong>Basic Topology</strong> by M. A. Armstrong (1983)</li>
         <li><strong>Abstract Algebra</strong> by Dan Saracino (2008)</li>
         <li><strong>Undergraduate Algebra</strong> by Serge Lang (1990)</li>
@@ -34,6 +35,7 @@ horizontal: false
         <li><strong>Book of Proof</strong> by Richard Hammack (2013)</li>
         <li><strong>The Mathematics of Nonlinear Programming</strong> by A. L. Peressini, F. E. Sullivan, and J. J. Uhl (1988) </li>
         <li><strong>Methods of Mathematical Economics</strong> by Joel Franklin (1980)</li>
+        <li><strong>Introduction to the Theory of Computation</strong> by Michael Sipser (2012)</li>
       </ul>
     </div>
   </div>
