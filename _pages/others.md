@@ -1,7 +1,7 @@
 ---
 layout: page
-title: others
-permalink: /others/
+title: other
+permalink: /other/
 description: Math books, niche stories, and visual side projects.
 nav: true
 nav_order: 4
