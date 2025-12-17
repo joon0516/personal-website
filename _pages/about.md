@@ -22,4 +22,4 @@ Hi, I'm Joon. I'm a fourth year student at the [University of Virginia](https://
 
 My research interests lie in algorithmic fairness, differential privacy, optimization, and uncertainty quantification. Broadly, I’m interested in the societal impact of AI, particularly in high-stakes decision-making settings. *Fun fact:* my [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is [3](https://www.csauthors.net/distance/joonhyuk-ko/paul-erdos).
 
-**I’m applying to Ph.D. programs in the upcoming cycle!**
+**I’m applying to Ph.D. programs!**
