@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I received an **honorable mention** for the **2025 CRA Outstanding Undergraduate Researcher Award**!
+I received an **Honorable Mention** for the **2025 CRA Outstanding Undergraduate Researcher Award**!
