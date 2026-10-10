@@ -3,7 +3,7 @@
 Minimalistic academic personal website built with plain HTML and CSS.
 
 ## Structure
-- `index.html` — single-page site (bio, news, publications)
+- `index.html` — single-page site (bio, publications)
 - `style.css` — all styles
 - `assets/` — profile photo and CV
 
